@@ -1,0 +1,12 @@
+banners.zip -> archivos de los banners y flyers en formato para imprimir o para poder usarlo desde el Adobe Ilustrator
+video-casos-exito.mpg ->videos de los casos de exito (Liga del video en vimeo)
+catalogo-productos.pdf
+hojatecnica-safelearning.pdf
+hojatecnica-saintblu.pdf
+logos.zip -> archivos de los logos en formato para imprimir o para poder usarlo desde el Adobe Ilustrator
+manual-identidad.pdf
+presentacion-safelearning.pdf
+presentacion-saint-corporativo.pdf
+presentacion-saintblu.pdf
+whitepaper-safelearning.pdf
+whitepaper-saintblue.pdf
